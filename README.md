@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shatabdii Basu
+## 👋 Hi, I'm Shatabdi Basu
 -  I’m currently  working as a Business Analyst strong foundation in data analytics, machine learning, and storytelling through data. I bridge the gap between raw data and strategic decisions.
 
 ### 🔧 Tools & Technologies
